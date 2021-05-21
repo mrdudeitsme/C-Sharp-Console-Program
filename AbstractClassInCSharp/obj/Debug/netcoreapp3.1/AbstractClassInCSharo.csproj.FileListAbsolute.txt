@@ -1,0 +1,13 @@
+/home/sahild/Downloads/AbstractClassInCSharo/obj/Debug/netcoreapp3.1/AbstractClassInCSharo.csprojAssemblyReference.cache
+/home/sahild/Downloads/AbstractClassInCSharo/obj/Debug/netcoreapp3.1/AbstractClassInCSharo.AssemblyInfoInputs.cache
+/home/sahild/Downloads/AbstractClassInCSharo/obj/Debug/netcoreapp3.1/AbstractClassInCSharo.AssemblyInfo.cs
+/home/sahild/Downloads/AbstractClassInCSharo/obj/Debug/netcoreapp3.1/AbstractClassInCSharo.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/AbstractClassInCSharo/bin/Debug/netcoreapp3.1/AbstractClassInCSharo
+/home/sahild/Downloads/AbstractClassInCSharo/bin/Debug/netcoreapp3.1/AbstractClassInCSharo.deps.json
+/home/sahild/Downloads/AbstractClassInCSharo/bin/Debug/netcoreapp3.1/AbstractClassInCSharo.runtimeconfig.json
+/home/sahild/Downloads/AbstractClassInCSharo/bin/Debug/netcoreapp3.1/AbstractClassInCSharo.runtimeconfig.dev.json
+/home/sahild/Downloads/AbstractClassInCSharo/bin/Debug/netcoreapp3.1/AbstractClassInCSharo.dll
+/home/sahild/Downloads/AbstractClassInCSharo/bin/Debug/netcoreapp3.1/AbstractClassInCSharo.pdb
+/home/sahild/Downloads/AbstractClassInCSharo/obj/Debug/netcoreapp3.1/AbstractClassInCSharo.dll
+/home/sahild/Downloads/AbstractClassInCSharo/obj/Debug/netcoreapp3.1/AbstractClassInCSharo.pdb
+/home/sahild/Downloads/AbstractClassInCSharo/obj/Debug/netcoreapp3.1/AbstractClassInCSharo.genruntimeconfig.cache
