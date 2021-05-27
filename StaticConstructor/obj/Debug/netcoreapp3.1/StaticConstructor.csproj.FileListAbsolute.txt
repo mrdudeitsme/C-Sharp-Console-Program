@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/StaticConstructor/bin/Debug/netcoreapp3.1/StaticConstructor
+/home/sahild/Downloads/c# Practice/StaticConstructor/bin/Debug/netcoreapp3.1/StaticConstructor.deps.json
+/home/sahild/Downloads/c# Practice/StaticConstructor/bin/Debug/netcoreapp3.1/StaticConstructor.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/StaticConstructor/bin/Debug/netcoreapp3.1/StaticConstructor.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/StaticConstructor/bin/Debug/netcoreapp3.1/StaticConstructor.dll
+/home/sahild/Downloads/c# Practice/StaticConstructor/bin/Debug/netcoreapp3.1/StaticConstructor.pdb
+/home/sahild/Downloads/c# Practice/StaticConstructor/obj/Debug/netcoreapp3.1/StaticConstructor.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/StaticConstructor/obj/Debug/netcoreapp3.1/StaticConstructor.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/StaticConstructor/obj/Debug/netcoreapp3.1/StaticConstructor.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/StaticConstructor/obj/Debug/netcoreapp3.1/StaticConstructor.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/StaticConstructor/obj/Debug/netcoreapp3.1/StaticConstructor.dll
+/home/sahild/Downloads/c# Practice/StaticConstructor/obj/Debug/netcoreapp3.1/StaticConstructor.pdb
+/home/sahild/Downloads/c# Practice/StaticConstructor/obj/Debug/netcoreapp3.1/StaticConstructor.genruntimeconfig.cache

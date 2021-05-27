@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/StaticClass/obj/Debug/netcoreapp3.1/StaticClass.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/StaticClass/obj/Debug/netcoreapp3.1/StaticClass.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/StaticClass/obj/Debug/netcoreapp3.1/StaticClass.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/StaticClass/obj/Debug/netcoreapp3.1/StaticClass.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/StaticClass/bin/Debug/netcoreapp3.1/StaticClass
+/home/sahild/Downloads/c# Practice/StaticClass/bin/Debug/netcoreapp3.1/StaticClass.deps.json
+/home/sahild/Downloads/c# Practice/StaticClass/bin/Debug/netcoreapp3.1/StaticClass.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/StaticClass/bin/Debug/netcoreapp3.1/StaticClass.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/StaticClass/bin/Debug/netcoreapp3.1/StaticClass.dll
+/home/sahild/Downloads/c# Practice/StaticClass/bin/Debug/netcoreapp3.1/StaticClass.pdb
+/home/sahild/Downloads/c# Practice/StaticClass/obj/Debug/netcoreapp3.1/StaticClass.dll
+/home/sahild/Downloads/c# Practice/StaticClass/obj/Debug/netcoreapp3.1/StaticClass.pdb
+/home/sahild/Downloads/c# Practice/StaticClass/obj/Debug/netcoreapp3.1/StaticClass.genruntimeconfig.cache
