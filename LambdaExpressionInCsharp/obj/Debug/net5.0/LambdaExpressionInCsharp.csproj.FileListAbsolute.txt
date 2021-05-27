@@ -1,0 +1,16 @@
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/obj/Debug/net5.0/LambdaExpressionInCsharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/obj/Debug/net5.0/LambdaExpressionInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/obj/Debug/net5.0/LambdaExpressionInCsharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/obj/Debug/net5.0/LambdaExpressionInCsharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/obj/Debug/net5.0/LambdaExpressionInCsharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/bin/Debug/net5.0/LambdaExpressionInCsharp
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/bin/Debug/net5.0/LambdaExpressionInCsharp.deps.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/bin/Debug/net5.0/LambdaExpressionInCsharp.runtimeconfig.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/bin/Debug/net5.0/LambdaExpressionInCsharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/bin/Debug/net5.0/LambdaExpressionInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/bin/Debug/net5.0/ref/LambdaExpressionInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/bin/Debug/net5.0/LambdaExpressionInCsharp.pdb
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/obj/Debug/net5.0/LambdaExpressionInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/obj/Debug/net5.0/ref/LambdaExpressionInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/obj/Debug/net5.0/LambdaExpressionInCsharp.pdb
+/home/sahild/Downloads/c# Stuffs/c# Practice/LambdaExpressionInCsharp/obj/Debug/net5.0/LambdaExpressionInCsharp.genruntimeconfig.cache

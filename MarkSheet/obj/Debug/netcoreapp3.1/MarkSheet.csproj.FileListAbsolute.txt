@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/MarkSheet/obj/Debug/netcoreapp3.1/MarkSheet.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/MarkSheet/obj/Debug/netcoreapp3.1/MarkSheet.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/MarkSheet/obj/Debug/netcoreapp3.1/MarkSheet.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/MarkSheet/obj/Debug/netcoreapp3.1/MarkSheet.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/MarkSheet/bin/Debug/netcoreapp3.1/MarkSheet
+/home/sahild/Downloads/c# Practice/MarkSheet/bin/Debug/netcoreapp3.1/MarkSheet.deps.json
+/home/sahild/Downloads/c# Practice/MarkSheet/bin/Debug/netcoreapp3.1/MarkSheet.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/MarkSheet/bin/Debug/netcoreapp3.1/MarkSheet.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/MarkSheet/bin/Debug/netcoreapp3.1/MarkSheet.dll
+/home/sahild/Downloads/c# Practice/MarkSheet/bin/Debug/netcoreapp3.1/MarkSheet.pdb
+/home/sahild/Downloads/c# Practice/MarkSheet/obj/Debug/netcoreapp3.1/MarkSheet.dll
+/home/sahild/Downloads/c# Practice/MarkSheet/obj/Debug/netcoreapp3.1/MarkSheet.pdb
+/home/sahild/Downloads/c# Practice/MarkSheet/obj/Debug/netcoreapp3.1/MarkSheet.genruntimeconfig.cache
