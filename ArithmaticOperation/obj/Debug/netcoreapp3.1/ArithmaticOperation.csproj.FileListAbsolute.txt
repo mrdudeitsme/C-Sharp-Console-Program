@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/bin/Debug/netcoreapp3.1/ArithmaticOperation
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/bin/Debug/netcoreapp3.1/ArithmaticOperation.deps.json
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/bin/Debug/netcoreapp3.1/ArithmaticOperation.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/bin/Debug/netcoreapp3.1/ArithmaticOperation.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/bin/Debug/netcoreapp3.1/ArithmaticOperation.dll
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/bin/Debug/netcoreapp3.1/ArithmaticOperation.pdb
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/obj/Debug/netcoreapp3.1/ArithmaticOperation.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/obj/Debug/netcoreapp3.1/ArithmaticOperation.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/obj/Debug/netcoreapp3.1/ArithmaticOperation.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/obj/Debug/netcoreapp3.1/ArithmaticOperation.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/obj/Debug/netcoreapp3.1/ArithmaticOperation.dll
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/obj/Debug/netcoreapp3.1/ArithmaticOperation.pdb
+/home/sahild/Downloads/c# Practice/ArithmaticOperation/obj/Debug/netcoreapp3.1/ArithmaticOperation.genruntimeconfig.cache

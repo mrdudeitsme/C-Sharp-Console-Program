@@ -1,0 +1,16 @@
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/obj/Debug/net5.0/AnonymousFuntionCsharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/obj/Debug/net5.0/AnonymousFuntionCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/obj/Debug/net5.0/AnonymousFuntionCsharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/obj/Debug/net5.0/AnonymousFuntionCsharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/obj/Debug/net5.0/AnonymousFuntionCsharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/bin/Debug/net5.0/AnonymousFuntionCsharp
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/bin/Debug/net5.0/AnonymousFuntionCsharp.deps.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/bin/Debug/net5.0/AnonymousFuntionCsharp.runtimeconfig.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/bin/Debug/net5.0/AnonymousFuntionCsharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/bin/Debug/net5.0/AnonymousFuntionCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/bin/Debug/net5.0/ref/AnonymousFuntionCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/bin/Debug/net5.0/AnonymousFuntionCsharp.pdb
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/obj/Debug/net5.0/AnonymousFuntionCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/obj/Debug/net5.0/ref/AnonymousFuntionCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/obj/Debug/net5.0/AnonymousFuntionCsharp.pdb
+/home/sahild/Downloads/c# Stuffs/c# Practice/AnonymousFuntionCsharp/obj/Debug/net5.0/AnonymousFuntionCsharp.genruntimeconfig.cache
