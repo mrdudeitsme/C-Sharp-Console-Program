@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/obj/Debug/netcoreapp3.1/Classes_And_Objects.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/obj/Debug/netcoreapp3.1/Classes_And_Objects.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/obj/Debug/netcoreapp3.1/Classes_And_Objects.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/obj/Debug/netcoreapp3.1/Classes_And_Objects.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/bin/Debug/netcoreapp3.1/Classes_And_Objects
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/bin/Debug/netcoreapp3.1/Classes_And_Objects.deps.json
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/bin/Debug/netcoreapp3.1/Classes_And_Objects.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/bin/Debug/netcoreapp3.1/Classes_And_Objects.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/bin/Debug/netcoreapp3.1/Classes_And_Objects.dll
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/bin/Debug/netcoreapp3.1/Classes_And_Objects.pdb
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/obj/Debug/netcoreapp3.1/Classes_And_Objects.dll
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/obj/Debug/netcoreapp3.1/Classes_And_Objects.pdb
+/home/sahild/Downloads/c# Practice/Classes_And_Objects/obj/Debug/netcoreapp3.1/Classes_And_Objects.genruntimeconfig.cache

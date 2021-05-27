@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/obj/Debug/netcoreapp3.1/ConstructorInCsharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/obj/Debug/netcoreapp3.1/ConstructorInCsharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/obj/Debug/netcoreapp3.1/ConstructorInCsharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/obj/Debug/netcoreapp3.1/ConstructorInCsharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/bin/Debug/netcoreapp3.1/ConstructorInCsharp
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/bin/Debug/netcoreapp3.1/ConstructorInCsharp.deps.json
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/bin/Debug/netcoreapp3.1/ConstructorInCsharp.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/bin/Debug/netcoreapp3.1/ConstructorInCsharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/bin/Debug/netcoreapp3.1/ConstructorInCsharp.dll
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/bin/Debug/netcoreapp3.1/ConstructorInCsharp.pdb
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/obj/Debug/netcoreapp3.1/ConstructorInCsharp.dll
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/obj/Debug/netcoreapp3.1/ConstructorInCsharp.pdb
+/home/sahild/Downloads/c# Practice/ConstructorInCsharp/obj/Debug/netcoreapp3.1/ConstructorInCsharp.genruntimeconfig.cache
