@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/bin/Debug/netcoreapp3.1/TypesOfInheritance
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/bin/Debug/netcoreapp3.1/TypesOfInheritance.deps.json
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/bin/Debug/netcoreapp3.1/TypesOfInheritance.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/bin/Debug/netcoreapp3.1/TypesOfInheritance.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/bin/Debug/netcoreapp3.1/TypesOfInheritance.dll
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/bin/Debug/netcoreapp3.1/TypesOfInheritance.pdb
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/obj/Debug/netcoreapp3.1/TypesOfInheritance.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/obj/Debug/netcoreapp3.1/TypesOfInheritance.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/obj/Debug/netcoreapp3.1/TypesOfInheritance.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/obj/Debug/netcoreapp3.1/TypesOfInheritance.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/obj/Debug/netcoreapp3.1/TypesOfInheritance.dll
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/obj/Debug/netcoreapp3.1/TypesOfInheritance.pdb
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/TypesOfInheritance/obj/Debug/netcoreapp3.1/TypesOfInheritance.genruntimeconfig.cache

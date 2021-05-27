@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/obj/Debug/netcoreapp3.1/InheritanceInCsharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/obj/Debug/netcoreapp3.1/InheritanceInCsharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/obj/Debug/netcoreapp3.1/InheritanceInCsharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/obj/Debug/netcoreapp3.1/InheritanceInCsharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/bin/Debug/netcoreapp3.1/InheritanceInCsharp
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/bin/Debug/netcoreapp3.1/InheritanceInCsharp.deps.json
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/bin/Debug/netcoreapp3.1/InheritanceInCsharp.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/bin/Debug/netcoreapp3.1/InheritanceInCsharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/bin/Debug/netcoreapp3.1/InheritanceInCsharp.dll
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/bin/Debug/netcoreapp3.1/InheritanceInCsharp.pdb
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/obj/Debug/netcoreapp3.1/InheritanceInCsharp.dll
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/obj/Debug/netcoreapp3.1/InheritanceInCsharp.pdb
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/obj/Debug/netcoreapp3.1/InheritanceInCsharp.genruntimeconfig.cache

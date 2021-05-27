@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/bin/Debug/netcoreapp3.1/InterfacesInCsharp
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/bin/Debug/netcoreapp3.1/InterfacesInCsharp.deps.json
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/bin/Debug/netcoreapp3.1/InterfacesInCsharp.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/bin/Debug/netcoreapp3.1/InterfacesInCsharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/bin/Debug/netcoreapp3.1/InterfacesInCsharp.dll
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/bin/Debug/netcoreapp3.1/InterfacesInCsharp.pdb
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/obj/Debug/netcoreapp3.1/InterfacesInCsharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/obj/Debug/netcoreapp3.1/InterfacesInCsharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/obj/Debug/netcoreapp3.1/InterfacesInCsharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/obj/Debug/netcoreapp3.1/InterfacesInCsharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/obj/Debug/netcoreapp3.1/InterfacesInCsharp.dll
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/obj/Debug/netcoreapp3.1/InterfacesInCsharp.pdb
+/home/sahild/Downloads/c# Practice/InterfacesInCsharp/obj/Debug/netcoreapp3.1/InterfacesInCsharp.genruntimeconfig.cache

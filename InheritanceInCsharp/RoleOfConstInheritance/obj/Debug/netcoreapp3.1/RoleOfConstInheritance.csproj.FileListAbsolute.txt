@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/bin/Debug/netcoreapp3.1/RoleOfConstInheritance
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/bin/Debug/netcoreapp3.1/RoleOfConstInheritance.deps.json
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/bin/Debug/netcoreapp3.1/RoleOfConstInheritance.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/bin/Debug/netcoreapp3.1/RoleOfConstInheritance.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/bin/Debug/netcoreapp3.1/RoleOfConstInheritance.dll
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/bin/Debug/netcoreapp3.1/RoleOfConstInheritance.pdb
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/obj/Debug/netcoreapp3.1/RoleOfConstInheritance.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/obj/Debug/netcoreapp3.1/RoleOfConstInheritance.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/obj/Debug/netcoreapp3.1/RoleOfConstInheritance.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/obj/Debug/netcoreapp3.1/RoleOfConstInheritance.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/obj/Debug/netcoreapp3.1/RoleOfConstInheritance.dll
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/obj/Debug/netcoreapp3.1/RoleOfConstInheritance.pdb
+/home/sahild/Downloads/c# Practice/InheritanceInCsharp/RoleOfConstInheritance/obj/Debug/netcoreapp3.1/RoleOfConstInheritance.genruntimeconfig.cache
