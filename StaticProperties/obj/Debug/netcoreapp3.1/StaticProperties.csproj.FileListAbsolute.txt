@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/StaticProperties/bin/Debug/netcoreapp3.1/StaticProperties
+/home/sahild/Downloads/c# Practice/StaticProperties/bin/Debug/netcoreapp3.1/StaticProperties.deps.json
+/home/sahild/Downloads/c# Practice/StaticProperties/bin/Debug/netcoreapp3.1/StaticProperties.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/StaticProperties/bin/Debug/netcoreapp3.1/StaticProperties.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/StaticProperties/bin/Debug/netcoreapp3.1/StaticProperties.dll
+/home/sahild/Downloads/c# Practice/StaticProperties/bin/Debug/netcoreapp3.1/StaticProperties.pdb
+/home/sahild/Downloads/c# Practice/StaticProperties/obj/Debug/netcoreapp3.1/StaticProperties.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/StaticProperties/obj/Debug/netcoreapp3.1/StaticProperties.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/StaticProperties/obj/Debug/netcoreapp3.1/StaticProperties.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/StaticProperties/obj/Debug/netcoreapp3.1/StaticProperties.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/StaticProperties/obj/Debug/netcoreapp3.1/StaticProperties.dll
+/home/sahild/Downloads/c# Practice/StaticProperties/obj/Debug/netcoreapp3.1/StaticProperties.pdb
+/home/sahild/Downloads/c# Practice/StaticProperties/obj/Debug/netcoreapp3.1/StaticProperties.genruntimeconfig.cache

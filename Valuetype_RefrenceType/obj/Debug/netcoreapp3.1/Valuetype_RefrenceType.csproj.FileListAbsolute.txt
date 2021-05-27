@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/bin/Debug/netcoreapp3.1/Valuetype_RefrenceType
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/bin/Debug/netcoreapp3.1/Valuetype_RefrenceType.deps.json
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/bin/Debug/netcoreapp3.1/Valuetype_RefrenceType.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/bin/Debug/netcoreapp3.1/Valuetype_RefrenceType.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/bin/Debug/netcoreapp3.1/Valuetype_RefrenceType.dll
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/bin/Debug/netcoreapp3.1/Valuetype_RefrenceType.pdb
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/obj/Debug/netcoreapp3.1/Valuetype_RefrenceType.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/obj/Debug/netcoreapp3.1/Valuetype_RefrenceType.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/obj/Debug/netcoreapp3.1/Valuetype_RefrenceType.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/obj/Debug/netcoreapp3.1/Valuetype_RefrenceType.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/obj/Debug/netcoreapp3.1/Valuetype_RefrenceType.dll
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/obj/Debug/netcoreapp3.1/Valuetype_RefrenceType.pdb
+/home/sahild/Downloads/c# Practice/Valuetype_RefrenceType/obj/Debug/netcoreapp3.1/Valuetype_RefrenceType.genruntimeconfig.cache
