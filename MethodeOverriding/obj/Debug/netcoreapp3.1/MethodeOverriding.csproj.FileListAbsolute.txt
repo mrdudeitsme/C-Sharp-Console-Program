@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/MethodeOverriding/bin/Debug/netcoreapp3.1/MethodeOverriding
+/home/sahild/Downloads/c# Practice/MethodeOverriding/bin/Debug/netcoreapp3.1/MethodeOverriding.deps.json
+/home/sahild/Downloads/c# Practice/MethodeOverriding/bin/Debug/netcoreapp3.1/MethodeOverriding.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/MethodeOverriding/bin/Debug/netcoreapp3.1/MethodeOverriding.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/MethodeOverriding/bin/Debug/netcoreapp3.1/MethodeOverriding.dll
+/home/sahild/Downloads/c# Practice/MethodeOverriding/bin/Debug/netcoreapp3.1/MethodeOverriding.pdb
+/home/sahild/Downloads/c# Practice/MethodeOverriding/obj/Debug/netcoreapp3.1/MethodeOverriding.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/MethodeOverriding/obj/Debug/netcoreapp3.1/MethodeOverriding.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/MethodeOverriding/obj/Debug/netcoreapp3.1/MethodeOverriding.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/MethodeOverriding/obj/Debug/netcoreapp3.1/MethodeOverriding.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/MethodeOverriding/obj/Debug/netcoreapp3.1/MethodeOverriding.dll
+/home/sahild/Downloads/c# Practice/MethodeOverriding/obj/Debug/netcoreapp3.1/MethodeOverriding.pdb
+/home/sahild/Downloads/c# Practice/MethodeOverriding/obj/Debug/netcoreapp3.1/MethodeOverriding.genruntimeconfig.cache

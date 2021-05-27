@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/methfun/obj/Debug/netcoreapp3.1/methfun.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/methfun/obj/Debug/netcoreapp3.1/methfun.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/methfun/obj/Debug/netcoreapp3.1/methfun.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/methfun/obj/Debug/netcoreapp3.1/methfun.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/methfun/bin/Debug/netcoreapp3.1/methfun
+/home/sahild/Downloads/c# Practice/methfun/bin/Debug/netcoreapp3.1/methfun.deps.json
+/home/sahild/Downloads/c# Practice/methfun/bin/Debug/netcoreapp3.1/methfun.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/methfun/bin/Debug/netcoreapp3.1/methfun.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/methfun/bin/Debug/netcoreapp3.1/methfun.dll
+/home/sahild/Downloads/c# Practice/methfun/bin/Debug/netcoreapp3.1/methfun.pdb
+/home/sahild/Downloads/c# Practice/methfun/obj/Debug/netcoreapp3.1/methfun.dll
+/home/sahild/Downloads/c# Practice/methfun/obj/Debug/netcoreapp3.1/methfun.pdb
+/home/sahild/Downloads/c# Practice/methfun/obj/Debug/netcoreapp3.1/methfun.genruntimeconfig.cache
