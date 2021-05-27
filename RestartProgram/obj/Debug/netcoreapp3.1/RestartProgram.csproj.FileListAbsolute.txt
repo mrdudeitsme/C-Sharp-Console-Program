@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/RestartProgram/bin/Debug/netcoreapp3.1/RestartProgram
+/home/sahild/Downloads/c# Practice/RestartProgram/bin/Debug/netcoreapp3.1/RestartProgram.deps.json
+/home/sahild/Downloads/c# Practice/RestartProgram/bin/Debug/netcoreapp3.1/RestartProgram.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/RestartProgram/bin/Debug/netcoreapp3.1/RestartProgram.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/RestartProgram/bin/Debug/netcoreapp3.1/RestartProgram.dll
+/home/sahild/Downloads/c# Practice/RestartProgram/bin/Debug/netcoreapp3.1/RestartProgram.pdb
+/home/sahild/Downloads/c# Practice/RestartProgram/obj/Debug/netcoreapp3.1/RestartProgram.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/RestartProgram/obj/Debug/netcoreapp3.1/RestartProgram.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/RestartProgram/obj/Debug/netcoreapp3.1/RestartProgram.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/RestartProgram/obj/Debug/netcoreapp3.1/RestartProgram.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/RestartProgram/obj/Debug/netcoreapp3.1/RestartProgram.dll
+/home/sahild/Downloads/c# Practice/RestartProgram/obj/Debug/netcoreapp3.1/RestartProgram.pdb
+/home/sahild/Downloads/c# Practice/RestartProgram/obj/Debug/netcoreapp3.1/RestartProgram.genruntimeconfig.cache

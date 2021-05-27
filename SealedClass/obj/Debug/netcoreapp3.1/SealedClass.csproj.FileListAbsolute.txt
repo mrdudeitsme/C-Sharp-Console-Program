@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/SealedClass/obj/Debug/netcoreapp3.1/SealedClass.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/SealedClass/obj/Debug/netcoreapp3.1/SealedClass.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/SealedClass/obj/Debug/netcoreapp3.1/SealedClass.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/SealedClass/obj/Debug/netcoreapp3.1/SealedClass.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/SealedClass/bin/Debug/netcoreapp3.1/SealedClass
+/home/sahild/Downloads/c# Practice/SealedClass/bin/Debug/netcoreapp3.1/SealedClass.deps.json
+/home/sahild/Downloads/c# Practice/SealedClass/bin/Debug/netcoreapp3.1/SealedClass.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/SealedClass/bin/Debug/netcoreapp3.1/SealedClass.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/SealedClass/bin/Debug/netcoreapp3.1/SealedClass.dll
+/home/sahild/Downloads/c# Practice/SealedClass/bin/Debug/netcoreapp3.1/SealedClass.pdb
+/home/sahild/Downloads/c# Practice/SealedClass/obj/Debug/netcoreapp3.1/SealedClass.dll
+/home/sahild/Downloads/c# Practice/SealedClass/obj/Debug/netcoreapp3.1/SealedClass.pdb
+/home/sahild/Downloads/c# Practice/SealedClass/obj/Debug/netcoreapp3.1/SealedClass.genruntimeconfig.cache
