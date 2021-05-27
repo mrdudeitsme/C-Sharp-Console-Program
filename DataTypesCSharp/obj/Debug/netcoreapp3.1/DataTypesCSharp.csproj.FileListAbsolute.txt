@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/bin/Debug/netcoreapp3.1/DataTypesCSharp
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/bin/Debug/netcoreapp3.1/DataTypesCSharp.deps.json
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/bin/Debug/netcoreapp3.1/DataTypesCSharp.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/bin/Debug/netcoreapp3.1/DataTypesCSharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/bin/Debug/netcoreapp3.1/DataTypesCSharp.dll
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/bin/Debug/netcoreapp3.1/DataTypesCSharp.pdb
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/obj/Debug/netcoreapp3.1/DataTypesCSharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/obj/Debug/netcoreapp3.1/DataTypesCSharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/obj/Debug/netcoreapp3.1/DataTypesCSharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/obj/Debug/netcoreapp3.1/DataTypesCSharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/obj/Debug/netcoreapp3.1/DataTypesCSharp.dll
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/obj/Debug/netcoreapp3.1/DataTypesCSharp.pdb
+/home/sahild/Downloads/c# Practice/DataTypesCSharp/obj/Debug/netcoreapp3.1/DataTypesCSharp.genruntimeconfig.cache

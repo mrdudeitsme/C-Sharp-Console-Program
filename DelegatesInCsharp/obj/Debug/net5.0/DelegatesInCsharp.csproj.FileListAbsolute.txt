@@ -1,0 +1,16 @@
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/bin/Debug/net5.0/DelegatesInCsharp
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/bin/Debug/net5.0/DelegatesInCsharp.deps.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/bin/Debug/net5.0/DelegatesInCsharp.runtimeconfig.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/bin/Debug/net5.0/DelegatesInCsharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/bin/Debug/net5.0/DelegatesInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/bin/Debug/net5.0/ref/DelegatesInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/bin/Debug/net5.0/DelegatesInCsharp.pdb
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/obj/Debug/net5.0/DelegatesInCsharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/obj/Debug/net5.0/DelegatesInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/obj/Debug/net5.0/DelegatesInCsharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/obj/Debug/net5.0/DelegatesInCsharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/obj/Debug/net5.0/DelegatesInCsharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/obj/Debug/net5.0/DelegatesInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/obj/Debug/net5.0/ref/DelegatesInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/obj/Debug/net5.0/DelegatesInCsharp.pdb
+/home/sahild/Downloads/c# Stuffs/c# Practice/DelegatesInCsharp/obj/Debug/net5.0/DelegatesInCsharp.genruntimeconfig.cache

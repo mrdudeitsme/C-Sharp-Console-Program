@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/CopyConstructor/bin/Debug/netcoreapp3.1/CopyConstructor
+/home/sahild/Downloads/c# Practice/CopyConstructor/bin/Debug/netcoreapp3.1/CopyConstructor.deps.json
+/home/sahild/Downloads/c# Practice/CopyConstructor/bin/Debug/netcoreapp3.1/CopyConstructor.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/CopyConstructor/bin/Debug/netcoreapp3.1/CopyConstructor.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/CopyConstructor/bin/Debug/netcoreapp3.1/CopyConstructor.dll
+/home/sahild/Downloads/c# Practice/CopyConstructor/bin/Debug/netcoreapp3.1/CopyConstructor.pdb
+/home/sahild/Downloads/c# Practice/CopyConstructor/obj/Debug/netcoreapp3.1/CopyConstructor.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/CopyConstructor/obj/Debug/netcoreapp3.1/CopyConstructor.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/CopyConstructor/obj/Debug/netcoreapp3.1/CopyConstructor.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/CopyConstructor/obj/Debug/netcoreapp3.1/CopyConstructor.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/CopyConstructor/obj/Debug/netcoreapp3.1/CopyConstructor.dll
+/home/sahild/Downloads/c# Practice/CopyConstructor/obj/Debug/netcoreapp3.1/CopyConstructor.pdb
+/home/sahild/Downloads/c# Practice/CopyConstructor/obj/Debug/netcoreapp3.1/CopyConstructor.genruntimeconfig.cache
