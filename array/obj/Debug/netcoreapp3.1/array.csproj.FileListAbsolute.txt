@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/array/obj/Debug/netcoreapp3.1/array.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/array/obj/Debug/netcoreapp3.1/array.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/array/obj/Debug/netcoreapp3.1/array.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/array/obj/Debug/netcoreapp3.1/array.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/array/bin/Debug/netcoreapp3.1/array
+/home/sahild/Downloads/c# Practice/array/bin/Debug/netcoreapp3.1/array.deps.json
+/home/sahild/Downloads/c# Practice/array/bin/Debug/netcoreapp3.1/array.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/array/bin/Debug/netcoreapp3.1/array.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/array/bin/Debug/netcoreapp3.1/array.dll
+/home/sahild/Downloads/c# Practice/array/bin/Debug/netcoreapp3.1/array.pdb
+/home/sahild/Downloads/c# Practice/array/obj/Debug/netcoreapp3.1/array.dll
+/home/sahild/Downloads/c# Practice/array/obj/Debug/netcoreapp3.1/array.pdb
+/home/sahild/Downloads/c# Practice/array/obj/Debug/netcoreapp3.1/array.genruntimeconfig.cache

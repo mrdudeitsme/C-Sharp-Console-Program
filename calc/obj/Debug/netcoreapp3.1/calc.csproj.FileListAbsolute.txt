@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/calc/obj/Debug/netcoreapp3.1/calc.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/calc/obj/Debug/netcoreapp3.1/calc.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/calc/obj/Debug/netcoreapp3.1/calc.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/calc/obj/Debug/netcoreapp3.1/calc.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/calc/bin/Debug/netcoreapp3.1/calc
+/home/sahild/Downloads/c# Practice/calc/bin/Debug/netcoreapp3.1/calc.deps.json
+/home/sahild/Downloads/c# Practice/calc/bin/Debug/netcoreapp3.1/calc.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/calc/bin/Debug/netcoreapp3.1/calc.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/calc/bin/Debug/netcoreapp3.1/calc.dll
+/home/sahild/Downloads/c# Practice/calc/bin/Debug/netcoreapp3.1/calc.pdb
+/home/sahild/Downloads/c# Practice/calc/obj/Debug/netcoreapp3.1/calc.dll
+/home/sahild/Downloads/c# Practice/calc/obj/Debug/netcoreapp3.1/calc.pdb
+/home/sahild/Downloads/c# Practice/calc/obj/Debug/netcoreapp3.1/calc.genruntimeconfig.cache
