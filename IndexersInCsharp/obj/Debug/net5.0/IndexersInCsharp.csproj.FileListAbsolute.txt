@@ -1,0 +1,16 @@
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/obj/Debug/net5.0/IndexersInCsharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/obj/Debug/net5.0/IndexersInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/obj/Debug/net5.0/IndexersInCsharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/obj/Debug/net5.0/IndexersInCsharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/obj/Debug/net5.0/IndexersInCsharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/bin/Debug/net5.0/IndexersInCsharp
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/bin/Debug/net5.0/IndexersInCsharp.deps.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/bin/Debug/net5.0/IndexersInCsharp.runtimeconfig.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/bin/Debug/net5.0/IndexersInCsharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/bin/Debug/net5.0/IndexersInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/bin/Debug/net5.0/ref/IndexersInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/bin/Debug/net5.0/IndexersInCsharp.pdb
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/obj/Debug/net5.0/IndexersInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/obj/Debug/net5.0/ref/IndexersInCsharp.dll
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/obj/Debug/net5.0/IndexersInCsharp.pdb
+/home/sahild/Downloads/c# Stuffs/c# Practice/IndexersInCsharp/obj/Debug/net5.0/IndexersInCsharp.genruntimeconfig.cache

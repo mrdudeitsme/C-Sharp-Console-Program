@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/obj/Debug/netcoreapp3.1/EncapsulationInCsharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/obj/Debug/netcoreapp3.1/EncapsulationInCsharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/obj/Debug/netcoreapp3.1/EncapsulationInCsharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/obj/Debug/netcoreapp3.1/EncapsulationInCsharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/bin/Debug/netcoreapp3.1/EncapsulationInCsharp
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/bin/Debug/netcoreapp3.1/EncapsulationInCsharp.deps.json
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/bin/Debug/netcoreapp3.1/EncapsulationInCsharp.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/bin/Debug/netcoreapp3.1/EncapsulationInCsharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/bin/Debug/netcoreapp3.1/EncapsulationInCsharp.dll
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/bin/Debug/netcoreapp3.1/EncapsulationInCsharp.pdb
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/obj/Debug/netcoreapp3.1/EncapsulationInCsharp.dll
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/obj/Debug/netcoreapp3.1/EncapsulationInCsharp.pdb
+/home/sahild/Downloads/c# Practice/EncapsulationInCsharp/obj/Debug/netcoreapp3.1/EncapsulationInCsharp.genruntimeconfig.cache

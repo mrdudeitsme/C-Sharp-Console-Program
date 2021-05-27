@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/bin/Debug/netcoreapp3.1/DestructorInCshapr
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/bin/Debug/netcoreapp3.1/DestructorInCshapr.deps.json
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/bin/Debug/netcoreapp3.1/DestructorInCshapr.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/bin/Debug/netcoreapp3.1/DestructorInCshapr.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/bin/Debug/netcoreapp3.1/DestructorInCshapr.dll
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/bin/Debug/netcoreapp3.1/DestructorInCshapr.pdb
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/obj/Debug/netcoreapp3.1/DestructorInCshapr.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/obj/Debug/netcoreapp3.1/DestructorInCshapr.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/obj/Debug/netcoreapp3.1/DestructorInCshapr.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/obj/Debug/netcoreapp3.1/DestructorInCshapr.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/obj/Debug/netcoreapp3.1/DestructorInCshapr.dll
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/obj/Debug/netcoreapp3.1/DestructorInCshapr.pdb
+/home/sahild/Downloads/c# Practice/DestructorInCshapr/obj/Debug/netcoreapp3.1/DestructorInCshapr.genruntimeconfig.cache
