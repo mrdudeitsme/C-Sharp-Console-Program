@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/obj/Debug/netcoreapp3.1/AbstractionInCsharp.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/obj/Debug/netcoreapp3.1/AbstractionInCsharp.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/obj/Debug/netcoreapp3.1/AbstractionInCsharp.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/obj/Debug/netcoreapp3.1/AbstractionInCsharp.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/bin/Debug/netcoreapp3.1/AbstractionInCsharp
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/bin/Debug/netcoreapp3.1/AbstractionInCsharp.deps.json
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/bin/Debug/netcoreapp3.1/AbstractionInCsharp.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/bin/Debug/netcoreapp3.1/AbstractionInCsharp.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/bin/Debug/netcoreapp3.1/AbstractionInCsharp.dll
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/bin/Debug/netcoreapp3.1/AbstractionInCsharp.pdb
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/obj/Debug/netcoreapp3.1/AbstractionInCsharp.dll
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/obj/Debug/netcoreapp3.1/AbstractionInCsharp.pdb
+/home/sahild/Downloads/c# Practice/AbstractionInCsharp/obj/Debug/netcoreapp3.1/AbstractionInCsharp.genruntimeconfig.cache
