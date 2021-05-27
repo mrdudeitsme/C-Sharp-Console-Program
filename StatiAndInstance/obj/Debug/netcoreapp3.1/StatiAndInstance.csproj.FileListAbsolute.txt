@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/StatiAndInstance/obj/Debug/netcoreapp3.1/StatiAndInstance.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/StatiAndInstance/obj/Debug/netcoreapp3.1/StatiAndInstance.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/StatiAndInstance/obj/Debug/netcoreapp3.1/StatiAndInstance.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/StatiAndInstance/obj/Debug/netcoreapp3.1/StatiAndInstance.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/StatiAndInstance/bin/Debug/netcoreapp3.1/StatiAndInstance
+/home/sahild/Downloads/c# Practice/StatiAndInstance/bin/Debug/netcoreapp3.1/StatiAndInstance.deps.json
+/home/sahild/Downloads/c# Practice/StatiAndInstance/bin/Debug/netcoreapp3.1/StatiAndInstance.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/StatiAndInstance/bin/Debug/netcoreapp3.1/StatiAndInstance.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/StatiAndInstance/bin/Debug/netcoreapp3.1/StatiAndInstance.dll
+/home/sahild/Downloads/c# Practice/StatiAndInstance/bin/Debug/netcoreapp3.1/StatiAndInstance.pdb
+/home/sahild/Downloads/c# Practice/StatiAndInstance/obj/Debug/netcoreapp3.1/StatiAndInstance.dll
+/home/sahild/Downloads/c# Practice/StatiAndInstance/obj/Debug/netcoreapp3.1/StatiAndInstance.pdb
+/home/sahild/Downloads/c# Practice/StatiAndInstance/obj/Debug/netcoreapp3.1/StatiAndInstance.genruntimeconfig.cache

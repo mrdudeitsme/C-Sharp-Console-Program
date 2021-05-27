@@ -1,0 +1,13 @@
+/home/sahild/Downloads/c# Practice/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements
+/home/sahild/Downloads/c# Practice/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.deps.json
+/home/sahild/Downloads/c# Practice/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.json
+/home/sahild/Downloads/c# Practice/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.dev.json
+/home/sahild/Downloads/c# Practice/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.dll
+/home/sahild/Downloads/c# Practice/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.pdb
+/home/sahild/Downloads/c# Practice/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csprojAssemblyReference.cache
+/home/sahild/Downloads/c# Practice/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfoInputs.cache
+/home/sahild/Downloads/c# Practice/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfo.cs
+/home/sahild/Downloads/c# Practice/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csproj.CoreCompileInputs.cache
+/home/sahild/Downloads/c# Practice/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.dll
+/home/sahild/Downloads/c# Practice/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.pdb
+/home/sahild/Downloads/c# Practice/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.genruntimeconfig.cache
